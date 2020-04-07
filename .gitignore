@@ -1,0 +1,9 @@
+*.DS_STORE
+/venv
+*.idea/
+*__pycache__*
+*.h5
+*.hdf5
+*tokenizer.json
+/app/application/sentiment/model/model.h5
+
